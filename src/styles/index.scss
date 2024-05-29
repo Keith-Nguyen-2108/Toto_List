@@ -1,0 +1,12 @@
+@import 'variables';
+
+.error{
+    &-text{
+        color: $error !important;
+    }
+}
+.default{
+    &-text{
+        color: $default !important;
+    }
+}
